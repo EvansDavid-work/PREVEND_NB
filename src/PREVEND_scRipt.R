@@ -1,5 +1,4 @@
 ## PREPROCESSING ##
-#               #
 # Create a 24 hour albumin excretion column for each NC
 Full_NP$Mean24hAlbumin_NC2 <- ((Full_NP$UAC1_2B * Full_NP$UVOL1_2B/1000) 
                                + (Full_NP$UAC2_2B * Full_NP$UVOL2_2B/1000))/2
