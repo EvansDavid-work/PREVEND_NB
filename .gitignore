@@ -1,0 +1,6 @@
+# MacOS system files
+.DS_Store
+
+# Data related files
+src/my_workspace.RData
+src/PREVEND.Rproj
